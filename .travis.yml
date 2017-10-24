@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "node"
+
+install:
+  - npm install htmllint
+  - npm install -g htmllint-cli
+
+script: htmllint init && htmllint **/*.html
