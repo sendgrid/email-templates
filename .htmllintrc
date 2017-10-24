@@ -3,5 +3,5 @@
     "plugins": [],
 
     "attr-bans": "none",
-    "indent-width": false,
+    "indent-width": false
 }
