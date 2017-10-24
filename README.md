@@ -3,7 +3,7 @@
 A repository of common email templates to use and modify to your heart's content.
 
 ## Usage
-Clone this repository or download as a zip to get started. Email templates already contain some style, but are intended to be used as a starting point for you to customize to match your brand.
+[Templates Usage Documentation](https://github.com/sendgrid/email-templates/blob/master/USAGE.md)
 
 ## Contributing
 If you are interested in contributing, please submit a pull request. We ask that you thoroughly test your email templates in a variety of clients before submitting a PR.
