@@ -1,0 +1,7 @@
+{
+    // names of npm modules to load into htmllint
+    "plugins": [],
+
+    "attr-bans": "none",
+    "indent-width": false,
+}
