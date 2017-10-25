@@ -1,6 +1,0 @@
-{
-    // names of npm modules to load into htmllint
-    "plugins": []
-
-    // TODO: export htmllint's default cfg
-}

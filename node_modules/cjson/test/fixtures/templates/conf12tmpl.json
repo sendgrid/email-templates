@@ -1,8 +1,0 @@
-{
-    "num": {{num}},
-    "str": "{{str}}",
-    "bool": {{bool}},
-    "arr": {{arr}},
-    "obj": {{obj}},
-    "null": {{null}}
-}

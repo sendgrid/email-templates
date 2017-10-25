@@ -1,1 +1,0 @@
-When set to `true`, checks all `<figure>` elements for a `<figcaption>` child and all `<figcaption>` elements for a `<figure>` parent.

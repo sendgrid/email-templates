@@ -1,1 +1,0 @@
-If set to `true`, checks that an input of type radio (`<input type="radio">`) has a name attribute that is not empty.
