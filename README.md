@@ -10,3 +10,6 @@ If you are interested in contributing, please submit a pull request. We ask that
 
 ## Paste Templates
 Our initial set of templates that were design and built to reflect the most common transactional templates. These can be a great starting point for new customers of SendGrid.
+
+
+
