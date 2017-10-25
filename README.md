@@ -1,3 +1,5 @@
+![SendGrid Logo](https://uiux.s3.amazonaws.com/2016-logos/email-logo%402x.png)
+
 # SendGrid Email Templates
 
 A repository of common email templates to use and modify to your heart's content.
