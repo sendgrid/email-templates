@@ -1,0 +1,14 @@
+---
+  rules:
+    quotes: [2, 'single', 'avoid-escape']
+    strict: 0
+    no-console: 2
+    no-trailing-spaces: 2
+    no-mixed-spaces-and-tabs: [2, true]
+    yoda: 2
+    keyword-spacing: 2
+    space-infix-ops: 2
+    new-cap: 2
+    eol-last: 0
+  env:
+    node: true

@@ -1,0 +1,17 @@
+# coverage
+lib-cov
+coverage
+
+# plato
+report
+
+# docs
+site
+.tmp
+
+# node
+node_modules
+npm-debug.log
+
+# phpstorm
+.idea

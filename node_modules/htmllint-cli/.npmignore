@@ -1,0 +1,10 @@
+# coverage
+lib-cov
+coverage
+
+# node
+node_modules
+npm-debug.log
+
+# phpstorm
+.idea

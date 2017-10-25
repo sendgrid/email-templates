@@ -1,0 +1,10 @@
+{
+  "name": "email-templates",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "htmllint": "^0.6.0",
+    "htmllint-cli": "0.0.6"
+  }
+}

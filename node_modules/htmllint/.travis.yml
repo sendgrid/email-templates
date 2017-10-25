@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+  - "4"
+  - "node"
+notifications:
+  email: false
+branches:
+  only:
+    - master
+after_script:
+- git config --global user.email "tehcoalman@gmail.com"
+- git config --global user.name "Coalman"
+- git remote set-url origin "https://${GH_TOKEN}@github.com/htmllint/htmllint.git"
+- node ./node_modules/.bin/gulp doc:pub
+env:
+  global:
+    secure: ChlbQltZfIydalomvHBHEoamGhIcEnRUrHyGbBdY0z2navflbxvT4srqQ9CPWmGXcCHWIT5uB6eTaOXf+8kHIHyshAQH4w+0V/oQp1A5umXcSGhX2nX9lU/LUGpwFTdB6+YXmwoj7qrCMdB+a2+yswus9KZMizlqgREVwas/fNE=
