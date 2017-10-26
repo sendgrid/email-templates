@@ -16,7 +16,7 @@ A repository of common email templates to use and modify to your heart's content
 
 <a name="usage"></a>
 ## Usage
-Clone this repository or download as a zip to get started. Email templates already contain some style, but are intended to be used as a starting point for you to customize to match your brand.
+[Templates Usage Documentation](https://github.com/sendgrid/email-templates/blob/master/USAGE.md)
 
 <a name="contributing"></a>
 ## Contributing
