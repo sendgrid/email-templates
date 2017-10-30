@@ -8,3 +8,4 @@ install:
 script:
   - htmllint **/*.html 2>&1 | tee output.log
   - grep -q '^\[htmllint error' output.log && exit 1 || exit 0
+  - grep -q "^Copyright (c) [0-9]*-\?$(date +%Y) SendGrid$" LICENSE && exit 0 || exit 1
