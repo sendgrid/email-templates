@@ -2,6 +2,6 @@
     // names of npm modules to load into htmllint
     "plugins": [],
 
-    "attr-bans": "none",
+    "attr-bans": false,
     "indent-width": false
 }
