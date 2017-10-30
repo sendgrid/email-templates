@@ -9,10 +9,13 @@ A repository of common email templates to use and modify to your heart's content
 # Table of Contents
 
 * [Usage](#usage)
+* [Purpose](#purpose)
 * [Contributing](#contributing)
 * [Paste Templates](#paste-templates)
 * [License](#license)
 
+## Purpose
+The purpose of this repo is to provide email skeletons that someone can use to build any emails that they would like to build. The content of the email templates in this repo doesn't really matter, we are more focused on providing templates that can be used in multiple ways. 
 
 <a name="usage"></a>
 ## Usage
