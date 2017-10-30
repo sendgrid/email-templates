@@ -4,6 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sendgrid.svg?style=social&label=Follow)](https://twitter.com/sendgrid)
 [![GitHub contributors](https://img.shields.io/github/contributors/sendgrid/email-templates.svg)](https://github.com/sendgrid/email-templates/graphs/contributors)
 
+foo
+
 A repository of common email templates to use and modify to your heart's content.
 
 # Table of Contents
