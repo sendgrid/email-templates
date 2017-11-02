@@ -1,0 +1,23 @@
+{
+  "name": "email-templates",
+  "version": "0.0.1",
+  "description": "![SendGrid Logo](https://uiux.s3.amazonaws.com/2016-logos/email-logo%402x.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendgrid/email-templates.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sendgrid/email-templates/issues"
+  },
+  "homepage": "https://github.com/sendgrid/email-templates#readme",
+  "dependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}
