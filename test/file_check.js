@@ -3,8 +3,8 @@ var should      = require('should');
 var fs          = require('fs');
 
 describe('email-templates repo', function() {
-  it('should have ./Docker or docker/Docker file', function() {
-    assert(fileExists('Docker') || fileExists('docker/Docker'));
+  it('should have ./Dockerfile or docker/Dockerfile file', function() {
+    assert(fileExists('Dockerfile') || fileExists('docker/Dockerfile'));
   });
 
   it('should have ./docker-compose.yml or ./docker/docker-compose.yml file', function() {
@@ -44,7 +44,7 @@ describe('email-templates repo', function() {
   });
 
   it('should have ./LICENSE.md file', function() {
-    assert(fileExists('LICENSE.md'));
+    assert(fileExists('LICENSE.md')) || fileExists('LICENSE.txt'));;
   });
 
   it('should have ./.github/PULL_REQUEST_TEMPLATE file', function() {
