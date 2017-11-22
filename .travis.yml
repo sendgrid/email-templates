@@ -3,9 +3,11 @@ node_js:
   - "node"
 
 install:
+  - nom install
   - npm install htmllint-cli
 
 script:
+  - npm test
   - htmllint **/*.html 2>&1 | tee output.log
-  - grep -q '^\[htmllint error' output.log && exit 1 || exit 0
+  - grep -q '^\[htmllint error' output.log && exit 1 || true
   - grep -q "^Copyright (c) [0-9]*-\?$(date +%Y) SendGrid, Inc\.$" LICENSE && exit 0 || exit 1
