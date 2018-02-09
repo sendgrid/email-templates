@@ -15,7 +15,7 @@ A repository of common email templates to use and modify to your heart's content
 * [License](#license)
 
 ## Purpose
-The purpose of this repo is to provide email skeletons that someone can use to build any emails that they would like to build. The content of the email templates in this repo doesn't really matter, we are more focused on providing templates that can be used in multiple ways. 
+The purpose of this repo is to provide email skeletons that someone can use to build any emails that they would like to build. The content of the email templates in this repo doesn't really matter, we are more focused on providing templates that can be used in multiple ways.
 
 <a name="usage"></a>
 ## Usage
@@ -23,7 +23,7 @@ The purpose of this repo is to provide email skeletons that someone can use to b
 
 <a name="contributing"></a>
 ## Contributing
-If you are interested in contributing, please submit a pull request. We ask that you thoroughly test your email templates in a variety of clients before submitting a PR.
+[Review Pull Requests](https://github.com/sendgrid/email-templates/blob/master/CONTRIBUTING.md)
 
 <a name="paste-templates"></a>
 ## Paste Templates
