@@ -1,3 +1,5 @@
+> Dynamic templates is beta functionality, and you may not have access.
+
 Welcome to dynamic template examples! For more information about how to send with a dynamic template, check out [the documentation](https://sendgrid.com/docs/User_Guide/Transactional_Templates/Using_handlebars.html)
 
 ## Using these examples
